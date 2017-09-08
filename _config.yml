@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "kristina rapuano"
-  avatar           : "files/rapuano_thumbnail.jpeg"
+  avatar           : "https://kristinarapuano.github.io/files/rapuano_thumbnail.jpeg"
   bio              : "PhD student at Dartmouth College"
   location         : "Hanover, NH USA"
   employer         :
