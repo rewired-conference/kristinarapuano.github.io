@@ -9,11 +9,16 @@ redirect_from:
 
 {% include base_path %}
 
+Kristina Michele Rapuano
+Kristina.M.Rapuano.GR@Dartmouth.edu
+Hinman Box 6207, Dartmouth College, Hanover NH 03755
+Citizenship: U.S.A.
+
+
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Psychology (neuroscience concentration), The Pennsylvania State University, 2010
+* Ph.D in Cognitive Neuroscience, Dartmouth College, 2018 (expected)
 
 Work experience
 ======
@@ -22,10 +27,6 @@ Work experience
   * Duties included: Tagging issues
   * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
   
 Skills
 ======
