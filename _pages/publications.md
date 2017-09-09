@@ -18,7 +18,7 @@ author_profile: true
 
 ## Reward system activation in response to alcohol advertisements predicts underage drinking
 
-[Courtney, A.L., Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (In press). Reward system activation in response to alcohol advertisements predicts underage drinking. Journal of Studies on Alcohol and Drugs.](https://kristinarapuano.github.io/files/Simmons_2014_BrStuctFunc.pdf)
+Courtney, A.L., Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (In press). Reward system activation in response to alcohol advertisements predicts underage drinking. Journal of Studies on Alcohol and Drugs.
 
 ## Genetic risk for obesity predicts nucleus accumbens size and responsivity to real-world food cues
 
