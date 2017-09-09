@@ -15,12 +15,9 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-a.hover {
-    color: red;
-    text-decoration: none;
-}
+<span class="txt">Some Text</span>
 
-a.hover:hover {
+.txt:hover {
     text-decoration: underline;
 }
 
