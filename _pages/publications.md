@@ -22,7 +22,7 @@ Courtney, A.L., Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (In
 
 ## Genetic risk for obesity predicts nucleus accumbens size and responsivity to real-world food cues
 
-Rapuano, K.M., Zieselman, A.L., Kelley, W.M., Sargent, J.D., Heatherton, T.F., Gilbert-Diamond, D. (2016). Genetic risk for obesity predicts nucleus accumbens size and responsivity to real-world food cues. Proceedings of the National Academy of Sciences 114 (1), 160-165. [[PDF]](https://kristinarapuano.github.io/files/GilbertDiamondetal_2017_IJO.pdf)
+Rapuano, K.M., Zieselman, A.L., Kelley, W.M., Sargent, J.D., Heatherton, T.F., Gilbert-Diamond, D. (2016). Genetic risk for obesity predicts nucleus accumbens size and responsivity to real-world food cues. Proceedings of the National Academy of Sciences 114 (1), 160-165. <a class="third" href="#">[[PDF]](https://kristinarapuano.github.io/files/GilbertDiamondetal_2017_IJO.pdf)</a> 
 
 ## Television food advertisement exposure and FTO genotype in relation to excess consumption in children
 
