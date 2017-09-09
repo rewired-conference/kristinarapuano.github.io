@@ -15,6 +15,15 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
+a.hover {
+    color: red;
+    text-decoration: none;
+}
+
+a.hover:hover {
+    text-decoration: underline;
+}
+
 ## Cortical network differences in the sighted versus early blind for recognition of human‐produced action sounds
 
-[Name. Citation...](https://kristinarapuano.github.io/files/Lewis_et_al-2011-Human_Brain_Mapping.pdf)
+<a>[Name. Citation...](https://kristinarapuano.github.io/files/Lewis_et_al-2011-Human_Brain_Mapping.pdf)</a>
