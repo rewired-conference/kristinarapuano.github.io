@@ -15,11 +15,6 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %} -->
 
-<span class="txt">Some Text</span>
-
-.txt:hover {
-    text-decoration: underline;
-}
 
 ## Cortical network differences in the sighted versus early blind for recognition of human‐produced action sounds
 
