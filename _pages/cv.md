@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 Kristina Michele Rapuano
-/n <i>Kristina.M.Rapuano.GR@Dartmouth.edu
-/n Hinman Box 6207, Dartmouth College, Hanover NH 03755
-/n Citizenship: U.S.A.</i>
+<br><i>Kristina.M.Rapuano.GR@Dartmouth.edu
+<br>Hinman Box 6207, Dartmouth College, Hanover NH 03755
+<br>Citizenship: U.S.A.</i>
 
 
 Education
