@@ -48,19 +48,19 @@ Skills
 
 Research Experience
 ======
-* Pre-doctoral researcher (2012 – Present)
+* <b>Pre-doctoral researcher</b> (2012 – Present)
   * Profs. Luke Chang & Todd Heatherton @ Dartmouth College, Hanover NH
 
-* NSF Graduate Opportunities Worldwide (GROW) fellow (July - December 2016)
+* <b>NSF Graduate Opportunities Worldwide (GROW) fellow</b> (July - December 2016)
   * Prof. Morten Kringelbach @ University of Oxford & Aarhus University, Oxford, England & Aarhus, Denmark
 
-* Intramural Research Fellow (IRTA) (2010 – 2012)
+* <b>Intramural Research Fellow (IRTA)</b> (2010 – 2012)
   * Drs. Alex Martin and Kyle Simmons @ National Institute of Mental Health, NIH, Bethesda MD
 
-* Undergraduate research assistant (2008 – 2010)
+* <b>Undergraduate research assistant</b> (2008 – 2010)
   * Profs. Teresa Vescio, Peter Arnett, William Ray @ The Pennsylvania State University, University Park PA	
 	
-* Summer Undergraduate Research Intern (Summer 2009)
+* <b>Summer Undergraduate Research Intern</b> (Summer 2009)
   * Prof. James Lewis @ West Virginia University, Morgantown WV
 
   
