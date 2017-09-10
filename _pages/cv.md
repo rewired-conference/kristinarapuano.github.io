@@ -20,6 +20,31 @@ Education
 * Ph.D in Cognitive Neuroscience, Dartmouth College, 2018 (expected)
 * B.S. in Psychology (neuroscience concentration), The Pennsylvania State University, 2010
 
+Honors & Awards
+======
+* Awardee, Kavli Summer Institute, Santa Barbara CA (2017)
+* Awardee, NSF Graduate Research Opportunities Worldwide (GROW) fellowship (2016)
+* Best Poster Award, Dartmouth Integrative Biology Symposium, Dartmouth College (2015)
+* Outstanding Graduate Student Teacher Award, Dartmouth College (2015)
+* Best Presentation, Social Cognitive Neuroscience Summer School, SISSA, Trieste Italy (2014)
+* Scholarship, Social Cognitive Neuroscience Summer School, SISSA, Trieste Italy (2014)
+* Awardee, National Science Foundation Graduate Research Fellowship (2014 – 2017)
+* Outstanding Graduate Student Teacher Award, Dartmouth College (2014)
+* Scholarship, NIH-funded fMRI course, University of Michigan, Ann Arbor MI (2013)
+* Honorable mention, National Science Foundation Graduate Research Fellowship (2013)
+* Intramural Research Training Award (IRTA), The National Institutes of Health (2010 – 2012) 	
+* Highest Distinction (top 2%), College of Liberal Arts, Penn State University (2010)	
+* Deans List, Penn State University (2007 – 2010)
+* Member, Psi Chi National Psychology Honor Society, Penn State University (2009 – 2010)
+
+
+Professional Affiliations
+======
+* Cognitive Neuroscience Society
+* Society for Neuroscience
+* Social and Affective Neuroscience Society
+* The Obesity Society
+
 Skills
 ======
 * <b>Neuroimaging packages:</b> AFNI, SPM, FSL, Freesurfer, PyMVPA
