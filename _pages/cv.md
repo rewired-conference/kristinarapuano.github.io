@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Kristina Michele Rapuano
+<b>Kristina Michele Rapuano</b>
 <br><i>Kristina.M.Rapuano.GR@Dartmouth.edu
 <br>Hinman Box 6207, Dartmouth College, Hanover NH 03755
 <br>Citizenship: U.S.A.</i>
@@ -22,32 +22,27 @@ Education
 
 Skills
 ======
-* Neuroimaging packages: AFNI, SPM, FSL, Freesurfer, PyMVPA
-* Statistical packages: R, SPSS
-* Programming languages: Linux, Python, MATLAB
-* Presentation software: PsychoPy, E-Prime, Superlab
+* <b>Neuroimaging packages:</b> AFNI, SPM, FSL, Freesurfer, PyMVPA
+* <b>Statistical packages:</b> R, SPSS
+* <b>Programming languages:</b> Linux, Python, MATLAB
+* <b>Presentation software:</b> PsychoPy, E-Prime, Superlab
 
 Research Experience
 ======
 * Pre-doctoral researcher (2012 – Present)
-  * Dartmouth College, Hanover NH
-  * Profs. Luke Chang & Todd Heatherton
+  * Profs. Luke Chang & Todd Heatherton @ Dartmouth College, Hanover NH
 
 * NSF Graduate Opportunities Worldwide (GROW) fellow (July - December 2016)
-  * University of Oxford & Aarhus University, Oxford, England & Aarhus, Denmark
-  * Prof. Morten Kringelbach
+  * Prof. Morten Kringelbach @ University of Oxford & Aarhus University, Oxford, England & Aarhus, Denmark
 
 * Intramural Research Fellow (IRTA) (2010 – 2012)
-  * National Institute of Mental Health, NIH, Bethesda MD
-  * Drs. Alex Martin and Kyle Simmons
+  * Drs. Alex Martin and Kyle Simmons @ National Institute of Mental Health, NIH, Bethesda MD
 
 * Undergraduate research assistant (2008 – 2010)
-  * The Pennsylvania State University, University Park PA	
-  * Prof. Teresa Vescio, Peter Arnett, William Ray	
+  * Profs. Teresa Vescio, Peter Arnett, William Ray @ The Pennsylvania State University, University Park PA	
 	
 * Summer Undergraduate Research Intern (Summer 2009)
-  * West Virginia University, Morgantown WV
-  * Prof. James Lewis
+  * Prof. James Lewis @ West Virginia University, Morgantown WV
 
   
 Teaching Experience
