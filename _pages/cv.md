@@ -6,9 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
 {% include base_path %}
-
 <br><i>Kristina.M.Rapuano.GR@Dartmouth.edu
 <br>Hinman Box 6207, Dartmouth College, Hanover NH 03755
 <br>Citizenship: U.S.A.</i>
@@ -176,11 +174,8 @@ Scientific Contribution & Service
 Community Involvement & Outreach 
 ======
 * Local outreach with children and teens, organizer & leader
-  * <i>The Family Place: GED program for young mothers, Norwich VT</i>
-  * Organized field trip to Dartmouth to learn about opportunities in science (November 2014)
-  * <i>Indian River Middle School, Canaan NH</i>
-  * Spoke with middle school class about science and research (November 2013)
-  * Led sheep brain dissection with group of 5-6 students (December 2013)
+  * <i>The Family Place: GED program for young mothers, Norwich VT</i>; organized field trip to Dartmouth to learn about opportunities in science (November 2014)
+  * <i>Indian River Middle School, Canaan NH</i>; spoke with middle school class about science and research (November 2013) & led sheep brain dissection with small group of students (December 2013)
 
 * Dartmouth-sponsored “Science Pub”, presenter (April 2014)
   * Dartmouth College, Hanover NH
