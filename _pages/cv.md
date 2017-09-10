@@ -17,8 +17,8 @@ Kristina Michele Rapuano
 
 Education
 ======
-* B.S. in Psychology (neuroscience concentration), The Pennsylvania State University, 2010
 * Ph.D in Cognitive Neuroscience, Dartmouth College, 2018 (expected)
+* B.S. in Psychology (neuroscience concentration), The Pennsylvania State University, 2010
 
 Skills
 ======
@@ -29,7 +29,6 @@ Skills
 
 Research Experience
 ======
-  
 * Pre-doctoral researcher (2012 – Present)
   * Dartmouth College, Hanover NH
   * Profs. Luke Chang & Todd Heatherton
@@ -54,17 +53,14 @@ Research Experience
 Teaching Experience
 ======
 * <b>Teaching Assistant:</b> Principles of Human Brain Mapping with fMRI (Winter 2016	& Fall 2014)
-  * Dartmouth College, Hanover NH
-  * Instructor: William Kelley
+  * Instructor: William Kelley, Dartmouth College, Hanover NH
   * Guest lectures: Intro to multivariate pattern analysis (MVPA); Diffusion Tensor Imaging (DTI)
 
 * <b>Teaching Assistant/Lab Instructor:</b> Laboratory in Psychological Science (Spring 2014)
-  * Dartmouth College, Hanover NH
-  * Instructor: Jon Freeman
+  * Instructor: Jon Freeman, Dartmouth College, Hanover NH
 
 * <b>Teaching Assistant:</b> Emotion (Winter 2014)
-  * Dartmouth College, Hanover NH
-  * Instructor: Paul Whalen
+  * Instructor: Paul Whalen, Dartmouth College, Hanover NH
   * Guest lecture: Reward & Motivation
 
 * <b>Tutor:</b>  Biology: Basic Concepts and Biodiversity (Fall 2008)
@@ -91,37 +87,37 @@ Poster Presentations
 ======
 * <b>Rapuano, K.M.</b>, Heatherton, T.F., Kelley, W.M. Sex-differences in orbitofrontal cortex representation during evaluations of facial attractiveness. Social & Affective Neuroscience Society annual meeting, Los Angeles, CA. March 2017.
 
-* Rapuano, K.M., Heatherton, T.F., Kelley, W.M. Males and females evaluate facial attractiveness using different cognitive and affective strategies. Society for Neuroscience annual meeting, San Diego, CA. November 2016.
+* <b>Rapuano, K.M.</b>, Heatherton, T.F., Kelley, W.M. Males and females evaluate facial attractiveness using different cognitive and affective strategies. Society for Neuroscience annual meeting, San Diego, CA. November 2016.
 
-* Rapuano, K.M., Chavez, R.S., Decker, M.E., Gilbert-Diamond, D., Sargent, J.D., Heatherton, T.F., Kelley, W.M.  Structural morphometry and connectivity in the human reward system predict obesity metrics. The Obesity Society annual meeting, New Orleans, LA. November 2016.
+* <b>Rapuano, K.M.</b>, Chavez, R.S., Decker, M.E., Gilbert-Diamond, D., Sargent, J.D., Heatherton, T.F., Kelley, W.M.  Structural morphometry and connectivity in the human reward system predict obesity metrics. The Obesity Society annual meeting, New Orleans, LA. November 2016.
 
-* Rapuano, K.M., Zieselman, A.L., Kelley, W.M., Sargent, J.D., Heatherton, T.F., Gilbert-Diamond, D. Genetic risk for obesity enhances reward responsivity to real-world food cues in children. Social & Affective Neuroscience Society annual meeting, New York, NY. April 2016.
+* <b>Rapuano, K.M.</b>, Zieselman, A.L., Kelley, W.M., Sargent, J.D., Heatherton, T.F., Gilbert-Diamond, D. Genetic risk for obesity enhances reward responsivity to real-world food cues in children. Social & Affective Neuroscience Society annual meeting, New York, NY. April 2016.
 
-* Rapuano, K.M., Chavez, R.S., Gilbert-Diamond, D., Heatherton, T.F., Kelley, W.M. Structural morphometry and connectivity in the human reward system predict obesity metrics. Dartmouth Integrative Biology Symposium, Hanover NH. April 2015. *Top poster award
+* <b>Rapuano, K.M.</b>, Chavez, R.S., Gilbert-Diamond, D., Heatherton, T.F., Kelley, W.M. Structural morphometry and connectivity in the human reward system predict obesity metrics. Dartmouth Integrative Biology Symposium, Hanover NH. April 2015. *Top poster award
 
-* Rapuano, K.M., Courtney, A.L., Sargent, J.D., Heatherton, T.F., Kelley, W.M. Brand preference and percent body fat modulate neural responses to food advertisements. Cognitive Neuroscience Society annual meeting. San Francisco CA, March 2015.
+* <b>Rapuano, K.M.</b>, Courtney, A.L., Sargent, J.D., Heatherton, T.F., Kelley, W.M. Brand preference and percent body fat modulate neural responses to food advertisements. Cognitive Neuroscience Society annual meeting. San Francisco CA, March 2015.
 
-* Rapuano, K.M., Courtney, A.L., Sargent, J.D., Heatherton, T.F., Kelley, W.M. Brand preference and percent body fat modulate neural responses to food advertisements. Obesity Society annual meeting. Boston MA, November 2014.
+* <b>Rapuano, K.M.</b>, Courtney, A.L., Sargent, J.D., Heatherton, T.F., Kelley, W.M. Brand preference and percent body fat modulate neural responses to food advertisements. Obesity Society annual meeting. Boston MA, November 2014.
 
-* Rapuano, K.M., Huckins, J.F., Rogers, C., Sargent, J.D., Heatherton, T.F., Kelley, W.M. Fast food commercials differentially engage sensorimotor and insular cortices in overweight and normal weight adolescents. Society for Neuroscience, 2013.
+* <b>Rapuano, K.M.</b>, Huckins, J.F., Rogers, C., Sargent, J.D., Heatherton, T.F., Kelley, W.M. Fast food commercials differentially engage sensorimotor and insular cortices in overweight and normal weight adolescents. Society for Neuroscience, 2013.
 
-* Rapuano, K.M., Huckins, J.F., Sargent, J.D., Heatherton, T.F., Kelley, W.M. The influence of social context on neural responses to fast food advertisements. Dartmouth Integrative Biology Symposium, 2013.
+* <b>Rapuano, K.M.</b>, Huckins, J.F., Sargent, J.D., Heatherton, T.F., Kelley, W.M. The influence of social context on neural responses to fast food advertisements. Dartmouth Integrative Biology Symposium, 2013.
 
-* Rapuano, K.M., Simmons, W.K., Ingeholm, J.E., Knuth, N., Hall, K.D. Inferences about food pleasantness modulate activity in the ventral pallidum. Cognitive Neuroscience Society, 2012. 
+* <b>Rapuano, K.M.</b>, Simmons, W.K., Ingeholm, J.E., Knuth, N., Hall, K.D. Inferences about food pleasantness modulate activity in the ventral pallidum. Cognitive Neuroscience Society, 2012. 
 
-* Rapuano, K.M., Simmons, W.K., Kallman, S.J, Ingeholm, J.E., Hall, K.D., Martin, A. Taste-localized gustatory cortex responds to viewing pictures of appetizing foods. NIMH Research Festival, 2011. 
+* <b>Rapuano, K.M.</b>, Simmons, W.K., Kallman, S.J, Ingeholm, J.E., Hall, K.D., Martin, A. Taste-localized gustatory cortex responds to viewing pictures of appetizing foods. NIMH Research Festival, 2011. 
 
-* Rapuano, K.M., Talkington, W.J., Frum, C.A., Lewis, J.W. Humans mimicking animals: Implications for species-specific vocalization processing in human cortex. Columbia Undergraduate Science Journal Symposium, 2010. 
+* <b>Rapuano, K.M.</b>, Talkington, W.J., Frum, C.A., Lewis, J.W. Humans mimicking animals: Implications for species-specific vocalization processing in human cortex. Columbia Undergraduate Science Journal Symposium, 2010. 
 
 
 Scientific Contribution & Service
 ======
-* Reviewer, Human Brain Mapping (2016)
-* Reviewer, NeuroImage (2016)
-* Reviewer, Cerebral Cortex (2016)
-* Reviewer, Journal of Pediatric Psychology (2016)
-* Organizer, Social Brain Sciences brown bag speaker series (2014 – 2016)
-* Reviewer, PLOS One (2014 – 2015)
+* <b>Reviewer</b>, Human Brain Mapping (2016)
+* <b>Reviewer</b>, NeuroImage (2016)
+* <b>Reviewer</b>, Cerebral Cortex (2016)
+* <b>Reviewer</b>, Journal of Pediatric Psychology (2016)
+* <b>Organizer</b>, Social Brain Sciences brown bag speaker series (2014 – 2016)
+* <b>Reviewer</b>, PLOS One (2014 – 2015)
 
 Community Involvement & Outreach 
 ======
