@@ -89,6 +89,33 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Poster Presentations
+======
+* Rapuano, K.M., Heatherton, T.F., Kelley, W.M. Sex-differences in orbitofrontal cortex representation during evaluations of facial attractiveness. Social & Affective Neuroscience Society annual meeting, Los Angeles, CA. March 2017.
+
+* Rapuano, K.M., Heatherton, T.F., Kelley, W.M. Males and females evaluate facial attractiveness using different cognitive and affective strategies. Society for Neuroscience annual meeting, San Diego, CA. November 2016.
+
+* Rapuano, K.M., Chavez, R.S., Decker, M.E., Gilbert-Diamond, D., Sargent, J.D., Heatherton, T.F., Kelley, W.M.  Structural morphometry and connectivity in the human reward system predict obesity metrics. The Obesity Society annual meeting, New Orleans, LA. November 2016.
+
+* Rapuano, K.M., Zieselman, A.L., Kelley, W.M., Sargent, J.D., Heatherton, T.F., Gilbert-Diamond, D. Genetic risk for obesity enhances reward responsivity to real-world food cues in children. Social & Affective Neuroscience Society annual meeting, New York, NY. April 2016.
+
+* Rapuano, K.M., Chavez, R.S., Gilbert-Diamond, D., Heatherton, T.F., Kelley, W.M. Structural morphometry and connectivity in the human reward system predict obesity metrics. Dartmouth Integrative Biology Symposium, Hanover NH. April 2015. *Top poster award
+
+* Rapuano, K.M., Courtney, A.L., Sargent, J.D., Heatherton, T.F., Kelley, W.M. Brand preference and percent body fat modulate neural responses to food advertisements. Cognitive Neuroscience Society annual meeting. San Francisco CA, March 2015.
+
+* Rapuano, K.M., Courtney, A.L., Sargent, J.D., Heatherton, T.F., Kelley, W.M. Brand preference and percent body fat modulate neural responses to food advertisements. Obesity Society annual meeting. Boston MA, November 2014.
+
+* Rapuano, K.M., Huckins, J.F., Rogers, C., Sargent, J.D., Heatherton, T.F., Kelley, W.M. Fast food commercials differentially engage sensorimotor and insular cortices in overweight and normal weight adolescents. Society for Neuroscience, 2013.
+
+* Rapuano, K.M., Huckins, J.F., Sargent, J.D., Heatherton, T.F., Kelley, W.M. The influence of social context on neural responses to fast food advertisements. Dartmouth Integrative Biology Symposium, 2013.
+
+* Rapuano, K.M., Simmons, W.K., Ingeholm, J.E., Knuth, N., Hall, K.D. Inferences about food pleasantness modulate activity in the ventral pallidum. Cognitive Neuroscience Society, 2012. 
+
+* Rapuano, K.M., Simmons, W.K., Kallman, S.J, Ingeholm, J.E., Hall, K.D., Martin, A. Taste-localized gustatory cortex responds to viewing pictures of appetizing foods. NIMH Research Festival, 2011. 
+
+* Rapuano, K.M., Talkington, W.J., Frum, C.A., Lewis, J.W. Humans mimicking animals: Implications for species-specific vocalization processing in human cortex. Columbia Undergraduate Science Journal Symposium, 2010. 
+
+
 Scientific Contribution & Service
 ======
 * Reviewer, Human Brain Mapping (2016)
