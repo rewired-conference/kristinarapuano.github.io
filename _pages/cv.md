@@ -67,15 +67,48 @@ Teaching Experience
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* <b>Rapuano, K.M.</b>, Heatherton, T.F., Kelley, W.M. (In prep). Sex differences in neural representations of opposite-sex facial attractiveness evaluations.
+
+* Courtney, A.L., <b>Rapuano, K.M.</b>, Sargent, J.D., Heatherton, T.F., Kelley, W.M. (Under review). Reward system activation in response to alcohol advertisements predicts underage drinking.
+
+* <b>Rapuano, K.M.</b>, Zieselman, A.L., Kelley, W.M., Sargent, J.D., Heatherton, T.F., Gilbert-Diamond, D. (2016). Genetic risk for obesity predicts nucleus accumbens size and responsivity to real-world food cues. Proceedings of the National Academy of Sciences 114 (1), 160-165.
+
+* Gilbert-Diamond, D., Emond J., Lansigan R, <b>Rapuano, K.M.</b>, Kelley, W.M., Heatherton, T.F., Sargent J.D. (2016). Television food advertisement exposure and FTO genotype in relation to excess consumption in children. International Journal of Obesity 41 (1), 23-29.
+
+* Kringelbach, ML. & <b>Rapuano, K.M.</b> (2016) Time in the orbitofrontal cortex. Brain. 139(4): 1010-1013.
+
+* <b>Rapuano, K.M.</b>, Huckins, J.F., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2015). Spontaneous mouth sensorimotor representation in high-adiposity adolescents in response to viewing dynamic food commercials. Cerebral Cortex 26 (6), 2602-2611.
+
+* Simmons, W.K., <b>Rapuano, K.M.</b>, Kallman, S.J., Ingeholm, J.E., Miller, B., Gotts, S.J., Hall, K.D., Martin, A. (2013). Category-specific integration of homeostatic signals in caudal, but not rostral, human insula. Nature neuroscience 16 (11), 1551-1552
+
+* Simmons, W.K., <b>Rapuano, K.M.</b>, Ingeholm, J.E., Avery, J., Kallman, S.J., Hall, K.D., Martin, A. (2013). The ventral pallidum and orbitofrontal cortex support food pleasantness inferences. Brain Structure & Function, 1863-2653.
+
+* Talkington, W.J., <b>Rapuano, K.M.</b>, Hitt, L., Frum, C.A., Lewis, J.W. (2012). Humans mimicking animals: A cortical hierarchy for human vocal communication sounds. The Journal of Neuroscience, 32(23):8084-8093.
+
+* Lewis, J.W., Frum, C.A., Brefczynski-Lewis, J.A., Talkington, W.J., Walker, N.A., <b>Rapuano, K.M.</b>, Kovach, A.L. (2011). Cortical network differences in the sighted versus early blind for recognition of human-produced action sound. Human Brain Mapping, 32:2241-2255.
+
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* “Genetic and neural bases for eating without hunger after food ads in children.” Dartmouth Hitchcock Medical Center, Lebanon NH. November 2015.
+
+* “Structural morphometry and connectivity in the human reward system predicts obesity metrics.” Society for Neuroscience, Chicago IL. October 2015.
+
+* “Neural responses to food advertisements in adolescents.” Dartmouth Hitchcock Cancer Control Center Walter Willet meeting, Dartmouth College, Hanover NH. December 2014.
+ 
+* “Decoding affective information processing across time: A study proposal.” Summer school in Social Cognitive Neuroscinece, International School for Advanced Studies, Trieste Italy. August 2014.
+
+* "Neural responses to dynamic food commercials in obese adolescents". Neuroscience Day, Dartmouth Hitchcock Medical Center, Lebanon NH. February 2014.
+
+* "Influence of alcohol advertisements on undergraduate alcohol consumption." Guardians Social Area Seminar Series, Dartmouth College, Hanover NH. January 2014.
+
+* "Neural responses to food commercials in lean & obese adolescents." Social Brain Sciences Brown Bag, Dartmouth College, Hanover NH. September 2013.
+
+* "Metabolic energy signaling modulates response to foods in gustatory cortex." Laboratory of Brain and Cognition Meeting, NIMH/NIH, Bethesda MD, October 2011.
+
+* "Humans mimicking animals: Implications for species-specific vocalization processing in human cortex." Columbia Undergraduate Science Journal Symposium, New York NY, May 2010. 
+
+* "Humans mimicking animals: Implications for species-specific vocalization processing in human cortex." Center for Advanced Imaging, WVU, August 2009.
   
   
 Poster Presentations
@@ -107,6 +140,8 @@ Poster Presentations
 
 Scientific Contribution & Service
 ======
+* <b>Reviewer</b>, Journal of Neuroscience (2017)
+* <b>Reviewer</b>, Obesity (2017)
 * <b>Reviewer</b>, Human Brain Mapping (2016)
 * <b>Reviewer</b>, NeuroImage (2016)
 * <b>Reviewer</b>, Cerebral Cortex (2016)
