@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Kristina Rapuano"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<b>Kristina Michele Rapuano</b>
 <br><i>Kristina.M.Rapuano.GR@Dartmouth.edu
 <br>Hinman Box 6207, Dartmouth College, Hanover NH 03755
 <br>Citizenship: U.S.A.</i>
@@ -17,8 +16,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Cognitive Neuroscience, Dartmouth College, 2018 (expected)
-* B.S. in Psychology (neuroscience concentration), The Pennsylvania State University, 2010
+* PhD in Cognitive Neuroscience, Dartmouth College, 2018 (expected)
+* BS in Psychology (neuroscience concentration), The Pennsylvania State University, 2010
 
 Honors & Awards
 ======
