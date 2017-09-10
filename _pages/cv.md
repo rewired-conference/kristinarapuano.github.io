@@ -10,9 +10,9 @@ redirect_from:
 {% include base_path %}
 
 Kristina Michele Rapuano
-Kristina.M.Rapuano.GR@Dartmouth.edu
-Hinman Box 6207, Dartmouth College, Hanover NH 03755
-Citizenship: U.S.A.
+/n <i>Kristina.M.Rapuano.GR@Dartmouth.edu
+/n Hinman Box 6207, Dartmouth College, Hanover NH 03755
+/n Citizenship: U.S.A.</i>
 
 
 Education
@@ -30,44 +30,47 @@ Skills
 Research Experience
 ======
   
-* Pre-doctoral researcher, Dartmouth College, Hanover NH (2012 – Present)
+* Pre-doctoral researcher (2012 – Present)
+  * Dartmouth College, Hanover NH
   * Profs. Luke Chang & Todd Heatherton
 
 * NSF Graduate Opportunities Worldwide (GROW) fellow (July - December 2016)
-  * Prof. Morten Kringelbach @ University of Oxford & Aarhus University, Oxford, England & Aarhus, Denmark
+  * University of Oxford & Aarhus University, Oxford, England & Aarhus, Denmark
+  * Prof. Morten Kringelbach
 
 * Intramural Research Fellow (IRTA) (2010 – 2012)
-  * Drs. Alex Martin and Kyle Simmons @ the National Institute of Mental Health, NIH, Bethesda MD	
+  * National Institute of Mental Health, NIH, Bethesda MD
+  * Drs. Alex Martin and Kyle Simmons
 
-* The Pennsylvania State University, University Park PA	(2008 – 2010)
-  * Research assistant, Dr. Teresa Vescio
-  * Research assistant, Dr. Peter Arnett	
-  * Research assistant, Dr. William Ray	
+* Undergraduate research assistant (2008 – 2010)
+  * The Pennsylvania State University, University Park PA	
+  * Prof. Teresa Vescio, Peter Arnett, William Ray	
 	
-* West Virginia University, Morgantown WV (Summer 2009)
-  * Summer Undergraduate Research Intern, Dr. James Lewis
+* Summer Undergraduate Research Intern (Summer 2009)
+  * West Virginia University, Morgantown WV
+  * Prof. James Lewis
 
   
 Teaching Experience
 ======
-* Teaching Assistant: Principles of Human Brain Mapping with fMRI (Winter 2016	& Fall 2014)
+* <b>Teaching Assistant:</b> Principles of Human Brain Mapping with fMRI (Winter 2016	& Fall 2014)
   * Dartmouth College, Hanover NH
   * Instructor: William Kelley
   * Guest lectures: Intro to multivariate pattern analysis (MVPA); Diffusion Tensor Imaging (DTI)
 
-* Teaching Assistant/Lab Instructor: Laboratory in Psychological Science (Spring 2014)
+* <b>Teaching Assistant/Lab Instructor:</b> Laboratory in Psychological Science (Spring 2014)
   * Dartmouth College, Hanover NH
   * Instructor: Jon Freeman
 
-* Teaching Assistant: Emotion (Winter 2014)
+* <b>Teaching Assistant:</b> Emotion (Winter 2014)
   * Dartmouth College, Hanover NH
   * Instructor: Paul Whalen
   * Guest lecture: Reward & Motivation
 
-* Tutor:  Biology: Basic Concepts and Biodiversity (Fall 2008)
+* <b>Tutor:</b>  Biology: Basic Concepts and Biodiversity (Fall 2008)
   * The Pennsylvania State University, University Park PA
 
-* Tutor: Algebra, Introductory Chemistry (2006 – 2007)
+* <b>Tutor:</b> Algebra, Introductory Chemistry (2006 – 2007)
   * Daniel Hand High School, Madison CT
 
 
@@ -83,11 +86,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Poster Presentations
 ======
@@ -127,7 +125,7 @@ Scientific Contribution & Service
 
 Community Involvement & Outreach 
 ======
-* Local outreach with children and teens, leader
+* Local outreach with children and teens, organizer & leader
   * The Family Place: GED program for young mothers, Norwich VT
   	* Organized field trip to Dartmouth to learn about opportunities in science (November 2014)
   * Indian River Middle School, Canaan NH	
