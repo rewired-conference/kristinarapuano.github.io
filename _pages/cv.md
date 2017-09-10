@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Kristina Rapuano <small><small><br><i>Kristina.M.Rapuano.GR@Dartmouth.edu // Hinman Box 6207, Dartmouth College, Hanover NH 03755 // Citizenship: U.S.A.</i></small></small>"
+title: "Kristina Rapuano <small><small><br>Kristina.M.Rapuano.GR@Dartmouth.edu // Hinman Box 6207, Dartmouth College, Hanover NH 03755 // Citizenship: U.S.A.</small></small>"
 permalink: /cv/
 author_profile: true
 redirect_from:
