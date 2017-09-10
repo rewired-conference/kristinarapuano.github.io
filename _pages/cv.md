@@ -170,20 +170,20 @@ Scientific Contribution & Service
 * <b>Reviewer</b>, NeuroImage (2016)
 * <b>Reviewer</b>, Cerebral Cortex (2016)
 * <b>Reviewer</b>, Journal of Pediatric Psychology (2016)
-* <b>Organizer</b>, Social Brain Sciences brown bag speaker series (2014 – 2016)
+* <b>Organizer</b>, Dartmouth's Social Brain Sciences brown bag series (2014 – 2016)
 * <b>Reviewer</b>, PLOS One (2014 – 2015)
 
 Community Involvement & Outreach 
 ======
 * Local outreach with children and teens, organizer & leader
-  * The Family Place: GED program for young mothers, Norwich VT
-  	* Organized field trip to Dartmouth to learn about opportunities in science (November 2014)
-  * Indian River Middle School, Canaan NH	
-  	* Spoke with middle school class about science and research (November 2013)
-  	* Led sheep brain dissection with group of 5-6 students (December 2013)
+  * <i>The Family Place: GED program for young mothers, Norwich VT</i>
+  * Organized field trip to Dartmouth to learn about opportunities in science (November 2014)
+  * <i>Indian River Middle School, Canaan NH</i>
+  * Spoke with middle school class about science and research (November 2013)
+  * Led sheep brain dissection with group of 5-6 students (December 2013)
 
-* Dartmouth-sponsored “Science Pub”, presenter
-  * Dartmouth College, Hanover NH (April 2014)
+* Dartmouth-sponsored “Science Pub”, presenter (April 2014)
+  * Dartmouth College, Hanover NH
   * Informal discussion with local community members about the science of happiness
 
 * Graduate Women in Science & Engineering (GWISE), leader (2013 – 2015)
