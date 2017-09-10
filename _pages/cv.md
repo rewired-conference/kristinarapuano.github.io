@@ -30,16 +30,16 @@ Skills
 Research Experience
 ======
   
-* Dartmouth College, Hanover NH	(2012 – Present)
-  * Pre-doctoral researcher
+* Pre-doctoral researcher, Dartmouth College, Hanover NH (2012 – Present)
+  * Profs. Luke Chang & Todd Heatherton
 
-* University of Oxford & Aarhus University, Oxford, England & Aarhus, Denmark (2016)
-  * NSF Graduate Opportunities Worldwide (GROW) fellow, Prof. Morten Kringelbach
+* NSF Graduate Opportunities Worldwide (GROW) fellow (July - December 2016)
+  * Prof. Morten Kringelbach @ University of Oxford & Aarhus University, Oxford, England & Aarhus, Denmark
 
-* National Institute of Mental Health, NIH, Bethesda MD	(2010 – 2012)
-  * Intramural Research Fellow (IRTA), Drs. Alex Martin and Kyle Simmons	
+* Intramural Research Fellow (IRTA) (2010 – 2012)
+  * Drs. Alex Martin and Kyle Simmons @ the National Institute of Mental Health, NIH, Bethesda MD	
 
-* The Pennsylvania State University, University Park PA	(Spring 2008 – Spring 2010)
+* The Pennsylvania State University, University Park PA	(2008 – 2010)
   * Research assistant, Dr. Teresa Vescio
   * Research assistant, Dr. Peter Arnett	
   * Research assistant, Dr. William Ray	
@@ -55,19 +55,19 @@ Teaching Experience
   * Instructor: William Kelley
   * Guest lectures: Intro to multivariate pattern analysis (MVPA); Diffusion Tensor Imaging (DTI)
 
-* Teaching Assistant/Lab Instructor: Laboratory in Psychological Science	Spring 2014
+* Teaching Assistant/Lab Instructor: Laboratory in Psychological Science (Spring 2014)
   * Dartmouth College, Hanover NH
   * Instructor: Jon Freeman
 
-* Teaching Assistant: Emotion	Winter 2014
+* Teaching Assistant: Emotion (Winter 2014)
   * Dartmouth College, Hanover NH
   * Instructor: Paul Whalen
   * Guest lecture: Reward & Motivation
 
-* Tutor:  Biology: Basic Concepts and Biodiversity	Fall 2008
+* Tutor:  Biology: Basic Concepts and Biodiversity (Fall 2008)
   * The Pennsylvania State University, University Park PA
 
-* Tutor: Algebra, Introductory Chemistry	2006 – 2007
+* Tutor: Algebra, Introductory Chemistry (2006 – 2007)
   * Daniel Hand High School, Madison CT
 
 
@@ -91,7 +91,7 @@ Teaching
   
 Poster Presentations
 ======
-* Rapuano, K.M., Heatherton, T.F., Kelley, W.M. Sex-differences in orbitofrontal cortex representation during evaluations of facial attractiveness. Social & Affective Neuroscience Society annual meeting, Los Angeles, CA. March 2017.
+* <b>Rapuano, K.M.</b>, Heatherton, T.F., Kelley, W.M. Sex-differences in orbitofrontal cortex representation during evaluations of facial attractiveness. Social & Affective Neuroscience Society annual meeting, Los Angeles, CA. March 2017.
 
 * Rapuano, K.M., Heatherton, T.F., Kelley, W.M. Males and females evaluate facial attractiveness using different cognitive and affective strategies. Society for Neuroscience annual meeting, San Diego, CA. November 2016.
 
