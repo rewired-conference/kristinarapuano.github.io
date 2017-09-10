@@ -18,20 +18,20 @@ Education
 
 Honors & Awards
 ======
-* Awardee, Kavli Summer Institute, Santa Barbara CA (2017)
-* Awardee, NSF Graduate Research Opportunities Worldwide (GROW) fellowship (2016)
-* Best Poster Award, Dartmouth Integrative Biology Symposium, Dartmouth College (2015)
-* Outstanding Graduate Student Teacher Award, Dartmouth College (2015)
-* Best Presentation, Social Cognitive Neuroscience Summer School, SISSA, Trieste Italy (2014)
-* Scholarship, Social Cognitive Neuroscience Summer School, SISSA, Trieste Italy (2014)
-* Awardee, National Science Foundation Graduate Research Fellowship (2014 – 2017)
-* Outstanding Graduate Student Teacher Award, Dartmouth College (2014)
-* Scholarship, NIH-funded fMRI course, University of Michigan, Ann Arbor MI (2013)
-* Honorable mention, National Science Foundation Graduate Research Fellowship (2013)
-* Intramural Research Training Award (IRTA), The National Institutes of Health (2010 – 2012) 	
-* Highest Distinction (top 2%), College of Liberal Arts, Penn State University (2010)	
-* Deans List, Penn State University (2007 – 2010)
-* Member, Psi Chi National Psychology Honor Society, Penn State University (2009 – 2010)
+* <b>Awardee</b>, Kavli Summer Institute, Santa Barbara CA (2017)
+* <b>Awardee</b>, NSF Graduate Research Opportunities Worldwide (GROW) fellowship (2016)
+* <b>Best Poster Award</b>, Dartmouth Integrative Biology Symposium, Dartmouth College (2015)
+* <b>Outstanding Graduate Student Teacher Award</b>, Dartmouth College (2015)
+* <b>Best Presentation</b>, Social Cognitive Neuroscience Summer School, SISSA, Trieste Italy (2014)
+* <b>Scholarship</b>, Social Cognitive Neuroscience Summer School, SISSA, Trieste Italy (2014)
+* <b>Awardee</b>, National Science Foundation Graduate Research Fellowship (2014 – 2017)
+* <b>Outstanding Graduate Student Teacher Award</b>, Dartmouth College (2014)
+* <b>Scholarship</b>, NIH-funded fMRI course, University of Michigan, Ann Arbor MI (2013)
+* <b>Honorable mention</b>, National Science Foundation Graduate Research Fellowship (2013)
+* <b>Intramural Research Training Award</b> (IRTA), The National Institutes of Health (2010 – 2012) 	
+* <b>Highest Distinction</b> (top 2%), College of Liberal Arts, Penn State University (2010)	
+* <b>Deans List</b>, Penn State University (2007 – 2010)
+* <b>Member</b>, Psi Chi National Psychology Honor Society, Penn State University (2009 – 2010)
 
 
 Professional Affiliations
@@ -116,8 +116,6 @@ Talks
 * “Structural morphometry and connectivity in the human reward system predicts obesity metrics.” Society for Neuroscience, Chicago IL. October 2015.
 
 * “Neural responses to food advertisements in adolescents.” Dartmouth Hitchcock Cancer Control Center Walter Willet meeting, Dartmouth College, Hanover NH. December 2014.
- 
-* “Decoding affective information processing across time: A study proposal.” Summer school in Social Cognitive Neuroscinece, International School for Advanced Studies, Trieste Italy. August 2014.
 
 * "Neural responses to dynamic food commercials in obese adolescents". Neuroscience Day, Dartmouth Hitchcock Medical Center, Lebanon NH. February 2014.
 
@@ -161,14 +159,8 @@ Poster Presentations
 
 Scientific Contribution & Service
 ======
-* <b>Reviewer</b>, Journal of Neuroscience (2017)
-* <b>Reviewer</b>, Obesity (2017)
-* <b>Reviewer</b>, Human Brain Mapping (2016)
-* <b>Reviewer</b>, NeuroImage (2016)
-* <b>Reviewer</b>, Cerebral Cortex (2016)
-* <b>Reviewer</b>, Journal of Pediatric Psychology (2016)
+* <b>Reviewer</b>, Journal of Neuroscience (2017); Obesity (2017); Human Brain Mapping (2016); NeuroImage (2016); Cerebral Cortex (2016); Journal of Pediatric Psychology (2016); PLOS One (2014 – 2015)
 * <b>Organizer</b>, Dartmouth's Social Brain Sciences brown bag series (2014 – 2016)
-* <b>Reviewer</b>, PLOS One (2014 – 2015)
 
 Community Involvement & Outreach 
 ======
@@ -177,14 +169,10 @@ Community Involvement & Outreach
   * <i>Indian River Middle School, Canaan NH</i>; spoke with middle school class about science and research (November 2013) & led sheep brain dissection with small group of students (December 2013)
 
 * Dartmouth-sponsored “Science Pub”, presenter (April 2014)
-  * Dartmouth College, Hanover NH
-  * Informal discussion with local community members about the science of happiness
+  * Lebanon NH, Informal discussion with local community members about the science of happiness
 
 * Graduate Women in Science & Engineering (GWISE), leader (2013 – 2015)
-  * Dartmouth College, Hanover NH	 
-  * Graduate student organization 
-
-* GWISE Science Day, organizer (2013 – 2015)
-  * Dartmouth College, Hanover NH	
-  * Annual event aimed at involving local children/teens in science through hands-on activities
-  * Primary organizer (2014-2015) and activity leader (2014)
+  * Graduate student organization, Dartmouth College, Hanover NH 
+  * GWISE Science Day (2013 – 2015)
+    * Annual event aimed at involving local children/teens in science through hands-on activities
+    * Primary organizer (2014-2015) and activity leader (2014)
