@@ -42,8 +42,7 @@ Professional Affiliations
 Skills
 ======
 * <b>Neuroimaging packages:</b> AFNI, SPM, FSL, Freesurfer, PyMVPA
-* <b>Statistical packages:</b> R, SPSS
-* <b>Programming languages:</b> Linux, Python, MATLAB
+* <b>Programming languages:</b> Linux, Python, MATLAB, R
 * <b>Presentation software:</b> PsychoPy, E-Prime, Superlab
 
 Research Experience
