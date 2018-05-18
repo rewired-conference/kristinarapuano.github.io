@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Kristina Rapuano <small><small><br>Kristina.M.Rapuano.GR@Dartmouth.edu // Hinman Box 6207, Dartmouth College, Hanover NH 03755 // Citizenship: U.S.A.</small></small>"
+title: "Kristina Rapuano <small><small><br>kristina.rapuano@yale.edu // Sheffield-Sterling-Strathcona Hall 414, 1 Prospect Street, New Haven CT 06511 // Citizenship: U.S.A.</small></small>"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,44 +11,38 @@ redirect_from:
 
 Education
 ======
-* PhD in Cognitive Neuroscience, Dartmouth College, 2018 (expected)
+* PhD in Cognitive Neuroscience, Dartmouth College, 2018
 * BS in Psychology (neuroscience concentration), The Pennsylvania State University, 2010
 
 Honors & Awards
 ======
-* <b>Awardee</b>, Kavli Summer Institute, Santa Barbara CA (2017)
 * <b>Awardee</b>, NSF Graduate Research Opportunities Worldwide (GROW) fellowship (2016)
 * <b>Best Poster Award</b>, Dartmouth Integrative Biology Symposium, Dartmouth College (2015)
 * <b>Outstanding Graduate Student Teacher Award</b>, Dartmouth College (2015)
 * <b>Best Presentation</b>, Social Cognitive Neuroscience Summer School, SISSA, Trieste Italy (2014)
-* <b>Scholarship</b>, Social Cognitive Neuroscience Summer School, SISSA, Trieste Italy (2014)
 * <b>Awardee</b>, National Science Foundation Graduate Research Fellowship (2014 – 2017)
 * <b>Outstanding Graduate Student Teacher Award</b>, Dartmouth College (2014)
-* <b>Scholarship</b>, NIH-funded fMRI course, University of Michigan, Ann Arbor MI (2013)
 * <b>Honorable mention</b>, National Science Foundation Graduate Research Fellowship (2013)
 * <b>Intramural Research Training Award</b> (IRTA), The National Institutes of Health (2010 – 2012) 	
 * <b>Highest Distinction</b> (top 2%), College of Liberal Arts, Penn State University (2010)	
 * <b>Deans List</b>, Penn State University (2007 – 2010)
 * <b>Member</b>, Psi Chi National Psychology Honor Society, Penn State University (2009 – 2010)
 
-
 Professional Affiliations
 ======
+* Organization for Human Brain Mapping
 * Cognitive Neuroscience Society
 * Society for Neuroscience
 * Social and Affective Neuroscience Society
 * The Obesity Society
 
-Skills
-======
-* <b>Neuroimaging packages:</b> AFNI, SPM, FSL, Freesurfer, PyMVPA
-* <b>Programming languages:</b> Linux, Python, MATLAB, R
-* <b>Presentation software:</b> PsychoPy, E-Prime, Superlab
-
 Research Experience
 ======
-* <b>Pre-doctoral researcher</b> (2012 – Present)
-  * Profs. Luke Chang & Todd Heatherton @ Dartmouth College, Hanover NH
+* <b>Postdoctoral researcher</b> (2018 – Present)
+  * Prof. BJ Casey @ Yale University, New Haven CT
+  
+* <b>Predoctoral researcher</b> (2012 – 2018)
+  * Prof. Luke Chang @ Dartmouth College, Hanover NH
 
 * <b>NSF Graduate Opportunities Worldwide (GROW) fellow</b> (July - December 2016)
   * Prof. Morten Kringelbach @ University of Oxford & Aarhus University, Oxford, England & Aarhus, Denmark
@@ -62,32 +56,22 @@ Research Experience
 * <b>Summer Undergraduate Research Intern</b> (Summer 2009)
   * Prof. James Lewis @ West Virginia University, Morgantown WV
 
-  
-Teaching Experience
-======
-* <b>Teaching Assistant:</b> Principles of Human Brain Mapping with fMRI (Winter 2016	& Fall 2014)
-  * Instructor: William Kelley, Dartmouth College, Hanover NH
-  * Guest lectures: Intro to multivariate pattern analysis (MVPA); Diffusion Tensor Imaging (DTI)
-
-* <b>Teaching Assistant/Lab Instructor:</b> Laboratory in Psychological Science (Spring 2014)
-  * Instructor: Jon Freeman, Dartmouth College, Hanover NH
-
-* <b>Teaching Assistant:</b> Emotion (Winter 2014)
-  * Instructor: Paul Whalen, Dartmouth College, Hanover NH
-  * Guest lecture: Reward & Motivation
-
-* <b>Tutor:</b>  Biology: Basic Concepts and Biodiversity (Fall 2008)
-  * The Pennsylvania State University, University Park PA
-
-* <b>Tutor:</b> Algebra, Introductory Chemistry (2006 – 2007)
-  * Daniel Hand High School, Madison CT
-
-
 Publications
 ======
-* <b>Rapuano, K.M.</b>, Heatherton, T.F., Kelley, W.M. (In prep). Sex differences in neural representations of opposite-sex facial attractiveness evaluations.
+* Figueroa, C.A., Cabral, J, Mocking, R.J.T., <b>Rapuano, K.M.</b>, van Hartevelt, T., Schene, A.H., Kringelbach, M.L., Ruhé, H.G. (Submitted). Patients remitted from Major Depressive Disorder show decreased ability to access a clinically relevant control network.
 
-* Courtney, A.L., <b>Rapuano, K.M.</b>, Sargent, J.D., Heatherton, T.F., Kelley, W.M. (Under review). Reward system activation in response to alcohol advertisements predicts underage drinking.
+* Lord, L.D., Expert, P., Atasoy, S., Roseman, L., <b>Rapuano, K.M.</b>, Lambiotte, R., Nutt, D.J., Deco, G., Carhart-Harris, R.L, Kringelbach, M.L., Cabral, J. (Submitted). Atypical brain state trajectories in the psychedelic state.
+Courtney, A.L., Rapuano, K.M. (Under review). A neurobiological model assessing alcohol marketing effects on underage drinking.
+
+* Courtney, A.L., <b>Rapuano, K.M.</b>, Sargent, J.D., Heatherton, T.F., Kelley, W.M. (Under review). Calorie information and dieting status modulate reward and control activation in response to food images.
+
+* Stevner A.B.A., Vidaurre, D., Cabral J., <b>Rapuano K.M.</b>, Nielsen, S.F.V., Tagliazucchi E., Laufs H., Deco G., Woolrich M.W., Van Someren E., Kringelbach M. L. (Under review). Discovery of key whole-brain transitions and dynamics underlying the human sleep cycle.
+
+* <b>Rapuano, K.M.</b>, Heatherton, T.F., Kelley, W.M. (Submitted). Sex differences in neural representations of opposite-sex facial attractiveness evaluations.
+
+* Courtney, A.L., <b>Rapuano, K.M.</b>, Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Brain Reward Responses Are Behaviorally Relevant. Journal of Studies on Alcohol and Drugs 79(1), 41-42.
+
+* Courtney, A.L., <b>Rapuano, K.M.</b>, Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Reward system activation in response to alcohol advertisements predicts underage drinking. Journal of Studies on Alcohol and Drugs 79(1), 29-38.
 
 * <b>Rapuano, K.M.</b>, Zieselman, A.L., Kelley, W.M., Sargent, J.D., Heatherton, T.F., Gilbert-Diamond, D. (2016). Genetic risk for obesity predicts nucleus accumbens size and responsivity to real-world food cues. Proceedings of the National Academy of Sciences 114 (1), 160-165.
 
@@ -104,7 +88,6 @@ Publications
 * Talkington, W.J., <b>Rapuano, K.M.</b>, Hitt, L., Frum, C.A., Lewis, J.W. (2012). Humans mimicking animals: A cortical hierarchy for human vocal communication sounds. The Journal of Neuroscience, 32(23):8084-8093.
 
 * Lewis, J.W., Frum, C.A., Brefczynski-Lewis, J.A., Talkington, W.J., Walker, N.A., <b>Rapuano, K.M.</b>, Kovach, A.L. (2011). Cortical network differences in the sighted versus early blind for recognition of human-produced action sound. Human Brain Mapping, 32:2241-2255.
-
   
 Talks
 ======
@@ -125,7 +108,6 @@ Talks
 * "Humans mimicking animals: Implications for species-specific vocalization processing in human cortex." Columbia Undergraduate Science Journal Symposium, New York NY, May 2010. 
 
 * "Humans mimicking animals: Implications for species-specific vocalization processing in human cortex." Center for Advanced Imaging, WVU, August 2009.
-  
   
 Poster Presentations
 ======
@@ -153,6 +135,40 @@ Poster Presentations
 
 * <b>Rapuano, K.M.</b>, Talkington, W.J., Frum, C.A., Lewis, J.W. Humans mimicking animals: Implications for species-specific vocalization processing in human cortex. Columbia Undergraduate Science Journal Symposium, 2010. 
 
+Teaching Experience
+======
+* <b>Teaching Assistant:</b> Principles of Human Brain Mapping with fMRI (Winter 2016	& Fall 2014)
+  * Instructor: William Kelley, Dartmouth College, Hanover NH
+  * Guest lectures: Intro to multivariate pattern analysis (MVPA); Diffusion Tensor Imaging (DTI)
+
+* <b>Teaching Assistant/Lab Instructor:</b> Laboratory in Psychological Science (Spring 2014)
+  * Instructor: Jon Freeman, Dartmouth College, Hanover NH
+
+* <b>Teaching Assistant:</b> Emotion (Winter 2014)
+  * Instructor: Paul Whalen, Dartmouth College, Hanover NH
+  * Guest lecture: Reward & Motivation
+
+* <b>Tutor:</b>  Biology: Basic Concepts and Biodiversity (Fall 2008)
+  * The Pennsylvania State University, University Park PA
+
+* <b>Tutor:</b> Algebra, Introductory Chemistry (2006 – 2007)
+  * Daniel Hand High School, Madison CT
+
+Workshops/Hackathons
+======
+* NeuroHackademy (2018) 
+* Kavli Summer Institute, Lake Tahoe CA (2018)
+* SheHacksBoston (world’s largest all-female hackathon), Boston MA (2018) 
+* Methods in Neuroscience at Dartmouth (MIND), Hanover NH (2017) 
+* Kavli Summer Institute, Santa Barbara CA (2017)
+* Social Cognitive Neuroscience Summer School, SISSA, Trieste Italy (2014) 
+* fMRI training course, University of Michigan, Ann Arbor MI (2013)
+
+Skills
+======
+* <b>Neuroimaging packages:</b> AFNI, SPM, FSL, Freesurfer, PyMVPA
+* <b>Programming languages:</b> Python, MATLAB, R, shell scripting (tcsh, bash)
+* <b>Presentation software:</b> PsychoPy, E-Prime, Superlab
 
 Scientific Contribution & Service
 ======
@@ -170,6 +186,6 @@ Community Involvement & Outreach
 
 * Graduate Women in Science & Engineering (GWISE), leader (2013 – 2015)
   * Graduate student organization, Dartmouth College, Hanover NH 
-  * GWISE Science Day (2013 – 2015)
-    * Annual event aimed at involving local children/teens in science through hands-on activities
-    * Primary organizer (2014-2015) and activity leader (2014)
+  
+* Dartmouth's Science Day, organizer (2013 – 2015)
+  * Annual event aimed at involving local children/teens in science through hands-on activities
