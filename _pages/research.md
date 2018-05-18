@@ -6,12 +6,12 @@ author_profile: true
 ---
 
 ----
-<!-- <b>Obesity, substance abuse, addiction.</b> What do these things have in common? An imbalance in the motivation to engage in a behavior (eating/smoking/drinking/drugs) relative to <i>not</i> engaging in that behavior.-->
 
-How does the brain respond to reward cues in the environment, and why are some individuals more susceptible to these cues than others? 
+Why are some individuals more susceptible to engage in risky health behaviors? Relative to adults, adolescents are more prone to engage in potentially risky behaviors, but why are some more likely to overeat, abuse alcohol, or become addicted to substances?
 
-My work leverages neural responses to real-world stimuli (e.g., food advertisements) in order to understand how these environmental cues might influence real-world outcomes (e.g., obesity; Rapuano et al., 2015) or interact with genetic risk [Rapuano et al., 2016](https://kristinarapuano.github.io/files/Rapuano_2016_PNAS.pdf).
+My previous work explored environmental and genetic influences on adolescent health-risk outcomes by leveraging pervasive exposure to advertisements. In using naturalistic stimuli like ads, we were able to approximate how these types of real-world cues might contribute to pediatric obesity (Rapuano et al., 2015), interact with genetic risk for obesity [Rapuano et al., 2016](https://kristinarapuano.github.io/files/Rapuano_2016_PNAS.pdf), or align individuals with a common goal (e.g., underage drinking).
 
-In addition to this, I have a strong interest in understanding the dynamics of the brain on a variety of timescales. For example, how does affective information influence brain state transitions over time, and how do these states motivate behavior? How do brain dynamics influence cognition and behavior on shorter timescales (e.g., moment-to-moment feelings or decisions), as well as on longer timescales (e.g., over the course of the lifespan)?
+Currently, I'm interested in extending this work to examine the contribution of neurodevelopment on health-risk behaviors and outcomes. How might the trajectories of interconnected brain regions differentially motivate adolescents to use or abuse illicit substances? 
+
 
 <!-- Finally, I have a pet-interest in studies that have direct applications to social justice and public policy.  -->
