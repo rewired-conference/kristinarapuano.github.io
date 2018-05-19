@@ -69,25 +69,25 @@ Courtney, A.L., Rapuano, K.M. (Under review). A neurobiological model assessing 
 
 * <b>Rapuano, K.M.</b>, Heatherton, T.F., Kelley, W.M. (Submitted). Sex differences in neural representations of opposite-sex facial attractiveness evaluations.
 
-* Courtney, A.L., <b>Rapuano, K.M.</b>, Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Brain Reward Responses Are Behaviorally Relevant. Journal of Studies on Alcohol and Drugs 79(1), 41-42.
+* Courtney, A.L., <b>Rapuano, K.M.</b>, Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Brain Reward Responses Are Behaviorally Relevant. <i>Journal of Studies on Alcohol and Drugs</i> 79(1), 41-42.
 
-* Courtney, A.L., <b>Rapuano, K.M.</b>, Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Reward system activation in response to alcohol advertisements predicts underage drinking. Journal of Studies on Alcohol and Drugs 79(1), 29-38.
+* Courtney, A.L., <b>Rapuano, K.M.</b>, Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Reward system activation in response to alcohol advertisements predicts underage drinking. <i>Journal of Studies on Alcohol and Drugs</i> 79(1), 29-38.
 
-* <b>Rapuano, K.M.</b>, Zieselman, A.L., Kelley, W.M., Sargent, J.D., Heatherton, T.F., Gilbert-Diamond, D. (2016). Genetic risk for obesity predicts nucleus accumbens size and responsivity to real-world food cues. Proceedings of the National Academy of Sciences 114 (1), 160-165.
+* <b>Rapuano, K.M.</b>, Zieselman, A.L., Kelley, W.M., Sargent, J.D., Heatherton, T.F., Gilbert-Diamond, D. (2016). Genetic risk for obesity predicts nucleus accumbens size and responsivity to real-world food cues. <i>Proceedings of the National Academy of Sciences</i> 114 (1), 160-165.
 
-* Gilbert-Diamond, D., Emond J., Lansigan R, <b>Rapuano, K.M.</b>, Kelley, W.M., Heatherton, T.F., Sargent J.D. (2016). Television food advertisement exposure and FTO genotype in relation to excess consumption in children. International Journal of Obesity 41 (1), 23-29.
+* Gilbert-Diamond, D., Emond J., Lansigan R, <b>Rapuano, K.M.</b>, Kelley, W.M., Heatherton, T.F., Sargent J.D. (2016). Television food advertisement exposure and FTO genotype in relation to excess consumption in children. <i>International Journal of Obesity</i> 41 (1), 23-29.
 
-* Kringelbach, ML. & <b>Rapuano, K.M.</b> (2016) Time in the orbitofrontal cortex. Brain. 139(4): 1010-1013.
+* Kringelbach, ML. & <b>Rapuano, K.M.</b> (2016) Time in the orbitofrontal cortex. <i>Brain</i> 139(4): 1010-1013.
 
-* <b>Rapuano, K.M.</b>, Huckins, J.F., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2015). Spontaneous mouth sensorimotor representation in high-adiposity adolescents in response to viewing dynamic food commercials. Cerebral Cortex 26 (6), 2602-2611.
+* <b>Rapuano, K.M.</b>, Huckins, J.F., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2015). Spontaneous mouth sensorimotor representation in high-adiposity adolescents in response to viewing dynamic food commercials. <i>Cerebral Cortex</i> 26 (6), 2602-2611.
 
-* Simmons, W.K., <b>Rapuano, K.M.</b>, Kallman, S.J., Ingeholm, J.E., Miller, B., Gotts, S.J., Hall, K.D., Martin, A. (2013). Category-specific integration of homeostatic signals in caudal, but not rostral, human insula. Nature neuroscience 16 (11), 1551-1552
+* Simmons, W.K., <b>Rapuano, K.M.</b>, Kallman, S.J., Ingeholm, J.E., Miller, B., Gotts, S.J., Hall, K.D., Martin, A. (2013). Category-specific integration of homeostatic signals in caudal, but not rostral, human insula. <i>Nature neuroscience</i> 16 (11), 1551-1552
 
-* Simmons, W.K., <b>Rapuano, K.M.</b>, Ingeholm, J.E., Avery, J., Kallman, S.J., Hall, K.D., Martin, A. (2013). The ventral pallidum and orbitofrontal cortex support food pleasantness inferences. Brain Structure & Function, 1863-2653.
+* Simmons, W.K., <b>Rapuano, K.M.</b>, Ingeholm, J.E., Avery, J., Kallman, S.J., Hall, K.D., Martin, A. (2013). The ventral pallidum and orbitofrontal cortex support food pleasantness inferences. <i>Brain Structure & Function</i>, 1863-2653.
 
-* Talkington, W.J., <b>Rapuano, K.M.</b>, Hitt, L., Frum, C.A., Lewis, J.W. (2012). Humans mimicking animals: A cortical hierarchy for human vocal communication sounds. The Journal of Neuroscience, 32(23):8084-8093.
+* Talkington, W.J., <b>Rapuano, K.M.</b>, Hitt, L., Frum, C.A., Lewis, J.W. (2012). Humans mimicking animals: A cortical hierarchy for human vocal communication sounds. <i>The Journal of Neuroscience</i> 32(23):8084-8093.
 
-* Lewis, J.W., Frum, C.A., Brefczynski-Lewis, J.A., Talkington, W.J., Walker, N.A., <b>Rapuano, K.M.</b>, Kovach, A.L. (2011). Cortical network differences in the sighted versus early blind for recognition of human-produced action sound. Human Brain Mapping, 32:2241-2255.
+* Lewis, J.W., Frum, C.A., Brefczynski-Lewis, J.A., Talkington, W.J., Walker, N.A., <b>Rapuano, K.M.</b>, Kovach, A.L. (2011). Cortical network differences in the sighted versus early blind for recognition of human-produced action sound. <i>Human Brain Mapping</i> 32, 2241-2255.
   
 Talks
 ======
@@ -156,7 +156,7 @@ Teaching Experience
 
 Workshops/Hackathons
 ======
-* NeuroHackademy (2018) 
+* NeuroHackademy, Seattle WA (2018) 
 * Kavli Summer Institute, Lake Tahoe CA (2018)
 * SheHacksBoston (world’s largest all-female hackathon), Boston MA (2018) 
 * Methods in Neuroscience at Dartmouth (MIND), Hanover NH (2017) 
