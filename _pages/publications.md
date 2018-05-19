@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %} -->
 
 
-## Food cues & obesity:
+## food cues & obesity
 
 Courtney, A.L., Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (Under review). Calorie information and dieting status modulate reward and control activation in response to food images.
 
@@ -31,7 +31,7 @@ Simmons, W.K., Rapuano, K.M., Kallman, S.J., Ingeholm, J.E., Miller, B., Gotts, 
 Simmons, W.K., Rapuano, K.M., Ingeholm, J.E., Avery, J., Kallman, S.J., Hall, K.D., Martin, A. (2013). The ventral pallidum and orbitofrontal cortex support food pleasantness inferences. Brain Structure & Function, 1863-2653. [[PDF]](https://kristinarapuano.github.io/files/Simmons_2014_BrStuctFunc.pdf)
 
 
-## Alcohol cues & underage drinking
+## alcohol cues & underage drinking
 
 Courtney, A.L., Rapuano, K.M. (Under review). A neurobiological model of alcohol marketing effects on underage drinking.
 
@@ -40,7 +40,7 @@ Courtney, A.L., Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (20
 Courtney, A.L., Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Brain Reward Responses Are Behaviorally Relevant. Journal of Studies on Alcohol and Drugs 79(1), 41-42. [[PDF]] (https://kristinarapuano.github.io/files/CourtneyRapuano_2018b_JSAD.pdf)
 
 
-## Brain dynamics
+## brain dynamics
 
 Kringelbach, ML. & Rapuano, K.M. (2016). Time in the orbitofrontal cortex. Brain. 139(4): 1010-1013. [[PDF]](https://kristinarapuano.github.io/files/BrainCommentary.pdf)
 
@@ -51,7 +51,7 @@ Lord, L.D., Expert, P., Atasoy, S., Roseman, L., Rapuano, K.M., Lambiotte, R., N
 Stevner A.B.A., Vidaurre, D., Cabral J., Rapuano K.M., Nielsen, S.F.V., Tagliazucchi E., Laufs H., Deco G., Woolrich M.W., Van Someren E., Kringelbach M. L. (Under review). Discovery of key whole-brain transitions and dynamics underlying the human sleep cycle.
 
 
-## Misc
+## miscellaneous
 
 Rapuano, K.M., Heatherton, T.F., Kelley, W.M. (Submitted). Sex differences in neural representations of opposite-sex facial attractiveness evaluations.
 
