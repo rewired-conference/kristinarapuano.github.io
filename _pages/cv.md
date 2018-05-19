@@ -58,6 +58,10 @@ Research Experience
 
 Publications
 ======
+
+* Courtney, A.L., Casey, B.J., Rapuano, K.M. (Under review). A neurobiological model of alcohol marketing effects on
+underage drinking. 
+
 * Figueroa, C.A., Cabral, J, Mocking, R.J.T., <b>Rapuano, K.M.</b>, van Hartevelt, T., Schene, A.H., Kringelbach, M.L., Ruhé, H.G. (Submitted). Patients remitted from Major Depressive Disorder show decreased ability to access a clinically relevant control network.
 
 * Lord, L.D., Expert, P., Atasoy, S., Roseman, L., <b>Rapuano, K.M.</b>, Lambiotte, R., Nutt, D.J., Deco, G., Carhart-Harris, R.L, Kringelbach, M.L., Cabral, J. (Submitted). Atypical brain state trajectories in the psychedelic state.
