@@ -46,7 +46,7 @@ Kringelbach, M.L. & Rapuano, K.M. (2016). Time in the orbitofrontal cortex. Brai
 
 Figueroa, C.A., Cabral, J, Mocking, R.J.T., Rapuano, K.M., van Hartevelt, T., Schene, A.H., Kringelbach, M.L., Ruhé, H.G. (Submitted). Patients remitted from Major Depressive Disorder show decreased ability to access a clinically relevant control network.
 
-Lord, L.D., Expert, P., Atasoy, S., Roseman, L., Rapuano, K.M., Lambiotte, R., Nutt, D.J., Deco, G., Carhart-Harris, R.L, Kringelbach, M.L., Cabral, J. (Submitted). Atypical brain state trajectories in the psychedelic state. Courtney, A.L., Rapuano, K.M. (Under review). A neurobiological model assessing alcohol marketing effects on underage drinking.
+Lord, L.D., Expert, P., Atasoy, S., Roseman, L., Rapuano, K.M., Lambiotte, R., Nutt, D.J., Deco, G., Carhart-Harris, R.L, Kringelbach, M.L., Cabral, J. (Submitted). Atypical brain state trajectories in the psychedelic state. 
 
 Stevner A.B.A., Vidaurre, D., Cabral J., Rapuano K.M., Nielsen, S.F.V., Tagliazucchi E., Laufs H., Deco G., Woolrich M.W., Van Someren E., Kringelbach M. L. (Under review). Discovery of key whole-brain transitions and dynamics underlying the human sleep cycle.
 
