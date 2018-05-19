@@ -42,7 +42,7 @@ Courtney, A.L., Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (20
 
 ## brain dynamics
 
-Kringelbach, ML. & Rapuano, K.M. (2016). Time in the orbitofrontal cortex. Brain. 139(4): 1010-1013. [[PDF]](https://kristinarapuano.github.io/files/BrainCommentary.pdf)
+Kringelbach, M.L. & Rapuano, K.M. (2016). Time in the orbitofrontal cortex. Brain. 139(4): 1010-1013. [[PDF]](https://kristinarapuano.github.io/files/BrainCommentary.pdf)
 
 Figueroa, C.A., Cabral, J, Mocking, R.J.T., Rapuano, K.M., van Hartevelt, T., Schene, A.H., Kringelbach, M.L., Ruhé, H.G. (Submitted). Patients remitted from Major Depressive Disorder show decreased ability to access a clinically relevant control network.
 
