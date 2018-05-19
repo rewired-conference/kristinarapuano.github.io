@@ -33,7 +33,7 @@ Simmons, W.K., Rapuano, K.M., Ingeholm, J.E., Avery, J., Kallman, S.J., Hall, K.
 
 ## alcohol cues & underage drinking
 
-Courtney, A.L., Rapuano, K.M. (Under review). A neurobiological model of alcohol marketing effects on underage drinking.
+Courtney, A.L., Casey, B.J., Rapuano, K.M. (Under review). A neurobiological model of alcohol marketing effects on underage drinking.
 
 Courtney, A.L., Rapuano, K.M., Sargent, J.D., Heatherton, T.F., Kelley, W.M. (2018). Reward system activation in response to alcohol advertisements predicts underage drinking. Journal of Studies on Alcohol and Drugs. 79(1), 29-38. [[PDF]](https://kristinarapuano.github.io/files/CourtneyRapuano_2018a_JSAD.pdf)
 
