@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 <a href="mailto:rewired.conference@gmail.com" target="_top">Contact the Rewired 2020 team</a> for information about sponsorship and the opportunity to:
-- connect with leaders in the field of functional neuroimaging
-- showcase expertise at a new kind of scientific meeting
-- support rigorous, reproducible, and representative science
+- <b>connect with cutting-edge researchers</b> in neuroimaging 
+- <b>showcase your expertise</b> at a new kind of scientific meeting
+- <b>demonstrate leadership</b> in rigorous, reproducible, and representative science
 
 
 <!-- {% if author.googlescholar %}
