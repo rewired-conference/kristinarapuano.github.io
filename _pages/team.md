@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ----
-[Monica Rosenberg, PhD](https://monicarosenberg.org)</b>, University of Chicago
+[Monica Rosenberg, PhD](https://monicarosenberg.org), University of Chicago
 
 [Tamara Vanderwal, BSc, MD, MAR](https://bcchr.ca/tvanderwal), University of British Columbia
 
