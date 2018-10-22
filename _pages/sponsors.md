@@ -5,12 +5,11 @@ permalink: /sponsors/
 author_profile: true
 ---
 
-Are you interested in:
-- connecting with leaders in functional neuroimaging research?
-- showcasing expertise at a new kind of scientific meeting?
-- supporting rigorous, reproducible, and representative science?
+<a href="mailto:rewired.conference@gmail.com" target="_top">Contact the Rewired 2020 team</a> for information about sponsorship and the opportunity to:
+- connect with leaders in the field of functional neuroimaging
+- showcase expertise at a new kind of scientific meeting
+- support rigorous, reproducible, and representative science
 
-<a href="mailto:rewired.conference@gmail.com" target="_top">Contact our team</a> for more information about sponsorship opportunties.
 
 <!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
