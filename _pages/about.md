@@ -7,11 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<b>Rewired: A (one-time) conference on cognition, behavior and functional connectivity</b>
+<em>Rewired: A (one-time) conference on cognition, behavior and functional connectivity</em> is a new kind of conference
 
-Our goals are to:
-
-
-<em><b>coming fall 2020</b></em>
+<em>coming fall 2020</em>
 
 ------
