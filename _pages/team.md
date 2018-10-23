@@ -10,4 +10,4 @@ author_profile: true
 
 <b>[Tamara Vanderwal, BSc, MD, MAR](https://bcchr.ca/tvanderwal)</b>, University of British Columbia
 
-<em>join us!</em>
+<a href="mailto:rewired.conference@gmail.com" target="_top"><em>Join us!</em></a>
