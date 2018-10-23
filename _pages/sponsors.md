@@ -5,7 +5,7 @@ permalink: /sponsors/
 author_profile: true
 ---
 
-<a href="mailto:rewired.conference@gmail.com" target="_top">Contact the Rewired 2020 team</a> for information about sponsorship and the opportunity to:
+<a href="mailto:rewired.conference@gmail.com" target="_top">Contact us</a> for information about sponsorship and the opportunity to:
 - <b>connect with cutting-edge researchers</b> in neuroimaging 
 - <b>showcase your expertise</b> at a new kind of scientific meeting
 - <b>demonstrate leadership</b> in rigorous, reproducible, and representative science
