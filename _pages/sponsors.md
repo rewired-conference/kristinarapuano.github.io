@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "sponsors"
+title: "Sponsors"
 permalink: /sponsors/
 author_profile: true
 ---
