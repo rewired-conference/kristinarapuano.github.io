@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<em>Rewired: A (one-time) conference on cognition, behavior and functional connectivity</em>. An experiment in conferencing that will include such things as:
+An experiment in conferencing that will include such things as:
 - exemplary science  
 - talks that run on time
 - childcare
