@@ -1,9 +1,9 @@
 # main links links
 main:
-  - title: "team"
+  - title: "Team"
     url: /team/
     
-  - title: "sponsors"
+  - title: "Sponsors"
     url: /sponsors/ 
         
  # - title: "blog"
