@@ -12,6 +12,6 @@ redirect_from:
 Our goals are to:
 
 
-<em>Coming fall 2020</em>
+<em><b>coming fall 2020</b></em>
 
 ------
