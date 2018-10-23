@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "rewired 2020"
+title                    : "Rewired 2020"
 title_separator          : "-"
-name                     : &name "rewired"
+name                     : &name "Rewired"
 description              : &description "personal description"
 url                      : https://rewired-conference.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -78,9 +78,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "rewired"
+  name             : "Rewired"
   avatar           : "https://rewired-conference.github.io/background-1409025_1280.png"
-  bio              : "a (one-time) conference on cognition, behavior and functional connectivity"
+  bio              : "A (one-time) conference on cognition, behavior and functional connectivity"
   location         : "Dallas, TX USA"
   employer         :
   googlescholar    :
